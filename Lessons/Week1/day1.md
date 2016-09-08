@@ -25,7 +25,7 @@ Principales problemas:
 * Dolor de cabeza (Ventilación)
 * Dolor de ojos (Iluminación)
 
-> Encuesta
+> [Encuesta](https://docs.google.com/forms/d/e/1FAIpQLSfexVDwDLSBJtvsogKA1RnqiZ0_cFEetWc3VhsgKDZ2nByUew/viewform)
 
 ---
 
