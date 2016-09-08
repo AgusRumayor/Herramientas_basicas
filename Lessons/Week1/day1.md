@@ -37,7 +37,9 @@
 > [Encuesta](https://docs.google.com/forms/d/e/1FAIpQLSfexVDwDLSBJtvsogKA1RnqiZ0_cFEetWc3VhsgKDZ2nByUew/viewform)
 
 ---
+# Cómo debe ser mi lugar adecuado?
 
+---
 #Mi Santuario - Escritorio
 
 ![Posicion1](http://rankinghosting.cl/wp-content/uploads/2015/02/salud-columna-pc.gif)
