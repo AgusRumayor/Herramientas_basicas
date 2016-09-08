@@ -41,10 +41,16 @@
 #Mi Santuario - Escritorio
 
 ![Posicion1](http://rankinghosting.cl/wp-content/uploads/2015/02/salud-columna-pc.gif)
-![Posicion2](http://cosasdelmundo.net/wp-content/uploads/2015/03/info6.jpg)
-![Posicion3](http://www.standwalkwork.com/wp-content/uploads/2015/01/ergonomics.gif)
-![ideal](http://www.ergoquest.com/uploads/5/9/1/5/5915120/7743834_orig.jpg)
----
 
+---
+![Posicion2](http://cosasdelmundo.net/wp-content/uploads/2015/03/info6.jpg)
+
+---
+![Posicion3](http://www.standwalkwork.com/wp-content/uploads/2015/01/ergonomics.gif)
+
+---
+![ideal](http://www.ergoquest.com/uploads/5/9/1/5/5915120/7743834_orig.jpg)
+
+---
 #Mi Santuario - Escritorio
 Standing vs Sitting
