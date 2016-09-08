@@ -8,10 +8,21 @@
 
 ---
 
-#Mi Santuario
+#Mi Santuario - Lugar
+## Qué ocasiona un lugar inadecuado?
+* Cansancio (Limpieza)
+* Aburrimiento (Decoración)
+* Dolor de cabeza (Ventilación)
+* Dolor de ojos (Iluminación)
 
-* Lugar
-* Escritorio
-* Silla
+> Encuesta
 
 ---
+
+#Mi Santuario - Escritorio
+
+Standing vs
+---
+
+#Mi Santuario - Escritorio
+Standing vs Sitting
