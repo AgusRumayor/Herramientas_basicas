@@ -40,7 +40,7 @@
 ##$hidden
 
 ---
-##if operand operator operand
+##if [ operand operator operand ]
 ##then
 ##echo "true"
 ##else
@@ -77,3 +77,16 @@
 </tr>
 
 </tbody></table>
+
+---
+##for x in *
+##do 
+##echo $x
+##done
+
+##for x in 1 2 3 4 5
+##do
+##echo $(($x+2))
+##done
+
+---
