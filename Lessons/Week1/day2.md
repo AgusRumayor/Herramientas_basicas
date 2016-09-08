@@ -90,3 +90,28 @@
 ##done
 
 ---
+
+##La mejor referencia de ciclos en bash
+> [ciclos](http://www.cyberciti.biz/faq/bash-for-loop/)
+
+---
+
+##A practicar!
+[hackerrank](https://www.hackerrank.com/domains/shell/bash)
+
+---
+#Arrays
+
+---
+##Pipes
+##command  | command | command
+
+---
+#Procesamiento de texto
+
+## cut
+## paste
+## tail
+## head
+---
+##sed
