@@ -80,7 +80,7 @@
 
 ---
 ##for x in *
-##do 
+##do
 ##echo $x
 ##done
 
@@ -102,16 +102,25 @@
 ---
 #Arrays
 
+##arr=(1 2 3 4 5 6)
+##echo ${arr[*]}
+##arr[2]="a"
+
 ---
 ##Pipes
 ##command  | command | command
 
 ---
+##cat LICENSE
+##grep GNU LICENSE
+##grep -r hola .
+
+---
 #Procesamiento de texto
 
-## cut
+## cut -c 1-5
 ## paste
 ## tail
 ## head
 ---
-##sed
+##sed, awk
