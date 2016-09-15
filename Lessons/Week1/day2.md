@@ -96,7 +96,7 @@
 
 ---
 
-##A practicar!
+##A practicar! (*ind)
 [hackerrank](https://www.hackerrank.com/domains/shell/bash)
 
 ---
@@ -106,11 +106,15 @@
 ##echo ${arr[*]}
 ##arr[2]="a"
 
+##A practicar! (*pair)
+[hackerrank](https://www.hackerrank.com/domains/shell/arrays-in-bash/difficulty/all/page/1)
+
 ---
 ##Pipes
 ##command  | command | command
 
 ---
+##Grep
 ##cat LICENSE
 ##grep GNU LICENSE
 ##grep -r hola .
@@ -123,4 +127,17 @@
 ## tail
 ## head
 ---
+
+##A practicar! (*dojo)
+[hackerrank](https://www.hackerrank.com/domains/shell/textpro)
+
+---
 ##sed, awk
+##echo -e "A,2\nB,8" > sum.txt
+##sed -i '1s/^/C,12\n/' sum.txt
+##awk 'BEGIN {FS= ","; i=0; tot=0};{ i+=1; tot+=$2} END {print tot/i}' sum.txt
+
+---
+
+##A practicar! (*ind)
+[hackerrank](https://www.hackerrank.com/domains/shell/grep-sed-awk/difficulty/all/page/1)
