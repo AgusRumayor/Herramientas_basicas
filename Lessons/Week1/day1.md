@@ -11,8 +11,10 @@
 ---
 #Actividades previas
 * [Hackerrank](https://hackerrank.com)
+* Activar '30 days of code'
 * Chrome - Google tone
 * [Temario](https://docs.google.com/spreadsheets/d/1lLFBWIl8aifu4S2DACy2C3k0_4ep343e_27QC61VoJw/pubhtml)
+* ind programming
 * Pair programming
 * Coding dojo
 
