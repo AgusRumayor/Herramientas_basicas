@@ -39,7 +39,11 @@
 > [Encuesta](https://docs.google.com/forms/d/e/1FAIpQLSfexVDwDLSBJtvsogKA1RnqiZ0_cFEetWc3VhsgKDZ2nByUew/viewform)
 
 ---
-# Cómo debe ser mi lugar adecuado?
+# Cómo debe ser mi lugar adecuado? (*debate)
+## Características principales
+## Características particulares
+## Por qué es tan secundario?
+## Cómo podría mejorar mi salud?
 
 ---
 #Mi Santuario - Escritorio

@@ -128,7 +128,7 @@
 ## head
 ---
 
-##A practicar! (*dojo)
+##A practicar! (*pair)
 [hackerrank](https://www.hackerrank.com/domains/shell/textpro)
 
 ---
