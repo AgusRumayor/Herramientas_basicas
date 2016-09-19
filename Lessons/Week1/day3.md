@@ -29,6 +29,9 @@
 
 #Herramientas de virtualización
 
+## Máquinas virtuales
+## Contenedores
+
 ---
 
 # Automatizar (*debate)
@@ -38,7 +41,21 @@
 ## Herramientas de automatización
 
 ---
-##Cómo harían un deploy automático? (*pair)
+## 1 - Cómo harían un deploy automático? (*pair)
 De una de las máquinas (dev) se modifica código.
 Automatizar la mayor cantidad de pasos para llegar a la segunda máquina (prod)
 
+---
+
+## 2 - Cómo dividir los ambientes? (*team)
+Crear dos ambientes de desarrollo y uno de producción.
+Automatizar la mayor cantidad de pasos para llegar a producción
+
+---
+
+# Automatización
+
+## vagrant/docker
+## Chef/Puppet/Ansible
+## Jenkins/Travis/Capistrano
+## Git/Hg/SVN
