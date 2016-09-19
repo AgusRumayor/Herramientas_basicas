@@ -18,7 +18,7 @@
 ---
 
 # Debemos aprender una nueva configuración?
-## [configuraciones](http://soukie.net/wp-content/uploads/2010/06/keyb-stat.png)
+## ![configuraciones](http://soukie.net/wp-content/uploads/2010/06/keyb-stat.png)
 
 ---
 
