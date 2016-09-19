@@ -47,7 +47,7 @@ Automatizar la mayor cantidad de pasos para llegar a la segunda máquina (prod)
 
 ---
 
-## 2 - Cómo dividir los ambientes? (*team)
+## 2 - Cómo dividir los ambientes? (*team) (*siguiente día)
 Crear dos ambientes de desarrollo y uno de producción.
 Automatizar la mayor cantidad de pasos para llegar a producción
 
@@ -57,5 +57,6 @@ Automatizar la mayor cantidad de pasos para llegar a producción
 
 ## vagrant/docker
 ## Chef/Puppet/Ansible
-## Jenkins/Travis/Capistrano
+## Jenkins/Travis/Capistrano/Teamcity
 ## Git/Hg/SVN
+## AWS/Hashicorp/Atlassian/JetBrains
