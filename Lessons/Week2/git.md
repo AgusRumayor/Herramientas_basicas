@@ -36,15 +36,9 @@
 
 Requerimientos -> Diseño -> Código -> Pruebas -> Deploy
 
----
-
 Requerimientos principales -> QA -> Arquitectura -> Código -> Pruebas -> Deploy
 
----
-
 Requerimientos principales -> QA -> Pruebas -> Arquitectura -> Código -> Deploy
-
----
 
 Arquitectura -> Pruebas -> Código -> Deploy
 
@@ -64,3 +58,22 @@ Arquitectura -> Pruebas -> Código -> Deploy
 
 ---
 ![religion](http://chrispebble.com/posts/11/git-religion.jpg)
+
+---
+
+[Introducción a git](https://www.gitbook.com/book/carloscarcamo/git-intro/details)
+
+---
+
+#Branches
+
+---
+
+[Ungit](https://github.com/FredrikNoren/ungit)
+[GitKraken](https://www.gitkraken.com/)
+
+---
+
+# Pull request
+
+
