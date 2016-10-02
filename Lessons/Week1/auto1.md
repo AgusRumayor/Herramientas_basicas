@@ -68,7 +68,7 @@ vm(dev) -> vm(prod)
 ###2
 vm(dev) -> repo -> vm(prod)
 ###3
-vm(dev)
+vm(dev)\s\s
   c-> repo -> vm(prod)
 vm(dev)
 ###4
