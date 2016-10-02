@@ -43,13 +43,14 @@
 ---
 ## 1 - Cómo harían un deploy automático? (*pair)
 De una de las máquinas (dev) se modifica código.
-Automatizar la mayor cantidad de pasos para llegar a la segunda máquina (prod)
+Automatizar la mayor cantidad de pasos para llegar a la segunda máquina (prod).
+Pueden elegir cualquier herramienta
 
 ---
-
-## 2 - Cómo dividir los ambientes? (*team) (*siguiente día)
-Crear dos ambientes de desarrollo y uno de producción.
+## 2 - Cómo dividir los ambientes? (*team) (*siguientes día)
+Crear ambientes de desarrollo y uno de producción.
 Automatizar la mayor cantidad de pasos para llegar a producción
+Se van a integrar las siguientes herramientas en cada release
 
 ---
 
@@ -60,3 +61,20 @@ Automatizar la mayor cantidad de pasos para llegar a producción
 ## Jenkins/Travis/Capistrano/Teamcity
 ## Git/Hg/SVN
 ## AWS/Hashicorp/Atlassian/JetBrains
+
+---
+1
+vm(dev) -> vm(prod)
+2
+vm(dev) -> repo -> vm(prod)
+3
+vm(dev)
+        |-> repo -> vm(prod)
+vm(dev)
+4
+vm(dev)
+        |-> repo -> vm(ci) -> vm(prod)
+vm(dev)
+
+---
+

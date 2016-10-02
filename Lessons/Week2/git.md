@@ -6,18 +6,8 @@
 
 ---
 
-## Electricidad
-## Internet
-## Repositorio
-## Editor de texto
-## Lenguaje de programación (Compilador/Intérprete)
-## Framework
-## Helpers (debug, reviewers, deploy, monitor, sniffers)
-
----
-
-## Electricidad
-## Internet
+## *Electricidad*
+## *Internet*
 ## Repositorio
 ## Servidor IC
 ## Editor de texto
@@ -67,11 +57,13 @@ Arquitectura -> Pruebas -> Código -> Deploy
 
 #Branches
 
----
-
 [Ungit](https://github.com/FredrikNoren/ungit)
 [GitKraken](https://www.gitkraken.com/)
 
+---
+
+# Repositorios remotos
+##
 ---
 
 # Pull request
