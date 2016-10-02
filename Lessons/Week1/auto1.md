@@ -65,7 +65,7 @@ Se van a integrar las siguientes herramientas en cada release
 ---
 1
 vm(dev) -> vm(prod)
-2
+---------------------
 vm(dev) -> repo -> vm(prod)
 3
 vm(dev)
