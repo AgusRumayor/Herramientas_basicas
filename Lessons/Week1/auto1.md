@@ -69,11 +69,11 @@ vm(dev) -> vm(prod)
 vm(dev) -> repo -> vm(prod)
 ###3
 vm(dev)
-  |-> repo -> vm(prod)
+  c-> repo -> vm(prod)
 vm(dev)
 ###4
 vm(dev)
-  |-> repo -> vm(ci) -> vm(prod)
+  c-> repo -> vm(ci) -> vm(prod)
 vm(dev)
 
 ---
