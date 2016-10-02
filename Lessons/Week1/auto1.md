@@ -63,15 +63,15 @@ Se van a integrar las siguientes herramientas en cada release
 ## AWS/Hashicorp/Atlassian/JetBrains
 
 ---
-1
+###1
 vm(dev) -> vm(prod)
-2
+###2
 vm(dev) -> repo -> vm(prod)
-3
+###3
+vm(dev)\s
+        |-> repo -> vm(prod)\s
 vm(dev)
-        |-> repo -> vm(prod)
-vm(dev)
-4
+###4
 vm(dev)
         |-> repo -> vm(ci) -> vm(prod)
 vm(dev)
