@@ -1,4 +1,4 @@
-# Dia 3
+# Dia 3!
 ## Mecanografía
 ## Virtualización
 ## Automatización
@@ -56,10 +56,9 @@ Se van a integrar las siguientes herramientas en cada release
 
 # Automatización
 
-## vagrant/docker
-## Chef/Puppet/Ansible
-## Jenkins/Travis/Capistrano/Teamcity
-## Git/Hg/SVN
+## vagrant/docker/lxc/kvm/vb/vmware/openvz
+## Chef/Puppet/Ansible/proxmox
+## Jenkins/Travis/Capistrano/Teamcity/gitlabci
 ## AWS/Hashicorp/Atlassian/JetBrains
 
 ---
