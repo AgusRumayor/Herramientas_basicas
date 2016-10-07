@@ -1,0 +1,17 @@
+- hosts: all
+  tasks:
+  - name: Redis database
+    become: yes
+    become_method: sudo
+    docker:
+      name: database
+      image: redis:latest
+      state: started
+  - name: mysql database
+    become: yes
+    become_method: sudo
+    docker:
+      name: rdatabase
+      image: mysql
+      state: started
+      env: "MYSQL_ROOT_PASSWORD=secret"
