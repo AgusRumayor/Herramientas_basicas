@@ -17,23 +17,29 @@
 ## GDocs
 ## Cloud9
 ## Codeanywhere
+## Shiftedit
+## Koding
+## Codenvy
 
 ---
 
 # Administración de proyectos
 
-## Trello
+## [Trello](https://trello.com)
 ## Waffle.io
+## JIRA
 
+
+## Time trackers (Pomodoro, Toggl, Timble, Hubstaff...)
 
 ---
 
 # Monitoreo
 
-## Htop
+## Top *
 ## Screen
 ## Monit
-## Logsta
+## Logstash (ELK)
 
 ---
 
@@ -43,4 +49,7 @@
 ## Zookeeper
 ## Doozerd
 ## etcd
+## Monit
+
+
 
